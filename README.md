@@ -19,8 +19,8 @@ Analyze trends in NBA player statistics using SQL, after cleaning and preparing 
 ## Project Structure
 nba_sql_project/
 ├── data/
-│   └── cleaned_data.csv             # Final cleaned dataset
+│   └── nba_sample.csv             # Final cleaned dataset
 ├── sql/
-│   └── nba_advanced_queries.sql     # Advanced SQL queries
+│   └── nba.sql     # Advanced SQL queries
 ├── README.md
 ```
