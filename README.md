@@ -1,12 +1,12 @@
 ```python
-🏀 NBA Player Statistics: SQL Analytics Project
+NBA Player Statistics: SQL Analytics Project
 
 This project showcases advanced SQL skills by analyzing cleaned NBA player performance data.
 
-## 📌 Objective
+## Objective
 Analyze trends in NBA player statistics using SQL, after cleaning and preparing the data with Python.
 
-## 📊 Dataset
+## Dataset
 - Cleaned from raw stats using a custom Python pipeline
 - Includes fields like year, player, team, position, games, points, FG%, FT%, 3P%, etc.
 
@@ -16,7 +16,7 @@ Analyze trends in NBA player statistics using SQL, after cleaning and preparing 
 - Oracle SQL Developer usage
 - Relational database table creation
 
-## 📁 Project Structure
+## Project Structure
 nba_sql_project/
 ├── data/
 │   └── cleaned_data.csv             # Final cleaned dataset
